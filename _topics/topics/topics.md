@@ -8,4 +8,4 @@ permalink: /topics
 
 # Seminar Topics
 
-We recently closed a seminar on Code-Mixing in Speech and Language.
+We recently closed a seminar on Code-Mixing in NLP and Speech.
