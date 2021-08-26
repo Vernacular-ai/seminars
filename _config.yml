@@ -57,7 +57,7 @@ just_the_docs:
       name: Topics
       # Exclude the collection from the navigation
       # Supports true or false (default)
-      nav_exclude: true
+      nav_exclude: false
       # Exclude the collection from the search
       # Supports true or false (default)
-      search_exclude: true
+      search_exclude: false
