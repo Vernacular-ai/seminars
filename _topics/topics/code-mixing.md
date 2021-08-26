@@ -1,10 +1,10 @@
 ---
 layout: default
 title: Code-Mixing
-parent: Seminar Topics
+parent: Topics
 nav_order: 2
 ---
 
-# Seminar : Code Mixing in Language and Speech
+# Code Mixing in Language and Speech
 
 WIP
