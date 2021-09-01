@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/seminars" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: SkitTech
-github_username:  Skit_ai
+github_username: skit-ai
 
 # Build settings
 markdown: kramdown
