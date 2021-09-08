@@ -23,4 +23,4 @@ Some examples of past seminars that we have had :
 - Dialog State Trackers
 - Code-mixing in Speech and Language
 
-Our seminars are open for people outside the company as well, so incase you want to join a seminar, please write to us.
+Our seminars are open for people outside the company as well, so incase you want to join a seminar, please write to us @machine-learning@skit.ai.
