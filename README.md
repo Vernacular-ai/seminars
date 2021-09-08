@@ -1,3 +1,3 @@
 # seminars
 
-Home page for Seminars at Vernacular.ai
+Home page for Seminars at Skit
